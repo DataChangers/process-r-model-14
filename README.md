@@ -36,9 +36,10 @@ According to Hayes: "This goal of the study was to examine the mechanism by whic
 
 In this tutorial I am purely focusing on the graphing part. If you would like to know more about the case, I would highly recommend you read the book. In fact, I strongly believe that without this book, it would be really challenging to understand what the PROCESS macro does, how to define the settings and understand the interpretation of the results. So, this does require effort, but the good news is that, in my opinion, Hayes is an excellent writer with the gift of explaining complex statistics in a nice, readable way, always accompanied by clear stories. 
 
+
 ## The code
-You can find the [R code for model 14](<code\process model 14.R>) in this repository. In order to run the code, make sure you save the source code for PROCESS (process.R from the [PROCESS macro for SPSS, SAS, and R](https://www.afhayes.com/public/processv43.zip) zip file) in the same directory as the R code for model 1.
-You also need to store de dataset "disaster.csv" in the same directory. You can find this data in the same  [PROCESS macro for SPSS, SAS, and R](https://www.afhayes.com/public/processv43.zip) zip file.
+You can find the [R code for model 14](<code/process model 14.R>) in this repository. In order to run the code, make sure you save the source code for PROCESS (process.R from the [PROCESS macro for SPSS, SAS, and R](https://www.afhayes.com/public/processv43.zip) zip file) in the same directory as the R code for model 1.
+You also need to store de dataset "teams.csv" in the same directory. You can find this data in the same  [PROCESS macro for SPSS, SAS, and R](https://www.afhayes.com/public/processv43.zip) zip file.
 
 You start with the required libraries.
 ```
@@ -102,6 +103,7 @@ In order to obtain the graph of the moderation effect, there are a 3 steps.
 
 ### Step 1: Open the MD2C graphing template and enter the variables
 Open the MD2C graphing template, and on the **"ModerationEffect"** tab, enter your variable names:
+
 ![Step 1: enter variable names](<img/variable names model 14.PNG>)
 
 ### Step 2: Copy the data
@@ -125,6 +127,7 @@ In order to visualize the condition effect, there are also 3 steps.
 
 ### Step 1: open the MD2C graphing template and enter the variables
 Open the MD2C graphing template, and on the **"ConditionalEffect"** tab, enter your variable names:
+
 ![Step 1: enter variable names](<img/variables conditional effect model 14.PNG>)
 
 ### Step 2: copy the data
@@ -146,6 +149,7 @@ In order to visualize the moderated mediation, there are also 3 steps.
 
 ### Step 1: open the MD2C graphing template and enter the variables
 Open the MD2C graphing template, and on the **"ModeratedMediation"** tab, enter your variable names:
+
 ![Step 1: enter variable names](<img/variables conditional indirect effect model 14.PNG>)
 
 ### Step 2: copy the data
