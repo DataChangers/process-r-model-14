@@ -32,8 +32,7 @@ According to Hayes: "This goal of the study was to examine the mechanism by whic
 
 **I would highly recommend you read the complete case study before you start coding!**
 
-
-![PROCESS model 14](<img\process model 14.PNG>)
+![PROCESS model 14](<img/process model 14.PNG>)
 
 In this tutorial I am purely focusing on the graphing part. If you would like to know more about the case, I would highly recommend you read the book. In fact, I strongly believe that without this book, it would be really challenging to understand what the PROCESS macro does, how to define the settings and understand the interpretation of the results. So, this does require effort, but the good news is that, in my opinion, Hayes is an excellent writer with the gift of explaining complex statistics in a nice, readable way, always accompanied by clear stories. 
 
